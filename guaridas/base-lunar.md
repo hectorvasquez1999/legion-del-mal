@@ -6,6 +6,9 @@
 **Estado:** 🟡 Operativa con restricciones
 
 ---
+## Coordenadas
+- Latitud: 0.674° N
+- Longitud: 23.473° E
 
 ## Descripción general
 
