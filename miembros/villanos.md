@@ -5,6 +5,7 @@
 4. Harley Queen
 5. Joker
 6. Darkseid
+7. Deathstroke
 
 # Notas
 
