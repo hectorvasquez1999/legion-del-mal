@@ -4,6 +4,7 @@
 3. Braniac
 4. Harley Queen
 5. Joker
+6. Darkseid
 
 # Notas
 
