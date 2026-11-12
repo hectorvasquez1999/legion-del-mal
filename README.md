@@ -6,7 +6,8 @@
 
 
 
-# 🦹‍♂️ La Legión del Mal !!
+# 🦹‍♂️ La Legión del Mal - desde local
+### Este es un repositorio privado de la Legión del Mal, donde se documentan planes, estrategias y operaciones de nuestra organización. La información contenida aquí es altamente confidencial y solo debe ser accedida por miembros autorizados.
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
